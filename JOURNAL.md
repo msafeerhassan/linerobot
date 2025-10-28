@@ -21,3 +21,9 @@ I spent about 30 Minutes doing research on all the components required for my ro
 ![Screenshot (3).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDcxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--97f1c2f4ccf44297bf5dff82993ca87053b19284/Screenshot%20(3).png)
   
 
+## 10/28/2025 - Solved a stupid issue  
+
+Its something unrealistic to say but I spend 1.5 hours just figuring out which Buck Convertors to use between battery, ESP32 and Motor Driver. Sometimes I found the efficiency to be not suitable and sometimes current, heat, voltage etc. But at the last I have chose 2 different Buck Convertors well suited for their purpose. I also deleted whole BoM and created it once again. Moreover, I tried creating schematic diagram of circuit on KiCad but failed :(. I will do it once BoM is complete.![Screenshot (4)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--324c50989046fa0e1a2a4eb0a94a61a335044364/Screenshot%20(4).png)
+![Capture](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--cf995f18a7499099e62974d6824decbb513c8a66/Capture.JPG)
+  
+
