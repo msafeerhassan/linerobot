@@ -27,3 +27,9 @@ Its something unrealistic to say but I spend 1.5 hours just figuring out which B
 ![Capture](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--cf995f18a7499099e62974d6824decbb513c8a66/Capture.JPG)
   
 
+## 11/3/2025 - BoM Completed!!!!!  
+
+Finally after a lot of time, the BoM is completed. Everything required is now listed along with link and price etc. Now we have started working on schematic diagram. We are currently facing some issues in it as we can't find most of the component symbols in KiCad. I guess we have to now create custom symbols. We hope to ship it by 15-20 November
+
+![Capture](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--abcbbb35af240cf8a2096fa1ca4114fea5c27d1f/Capture.JPG)  
+
