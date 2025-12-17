@@ -11,6 +11,12 @@ The shape of the PCB will resemble a car:
 Schematic Diagram:
 <img width="1271" height="812" alt="Screenshot 2025-12-15 194827" src="https://github.com/user-attachments/assets/e2ab9e7d-48ed-48bc-bd8f-26806b103728" />
 
+3D Model Images:
+
+<img width="713" height="631" alt="Screenshot 2025-12-17 204329" src="https://github.com/user-attachments/assets/223c6be8-cdf4-41bc-acad-7987d5a13727" />
+<img width="1109" height="560" alt="Screenshot 2025-12-17 204302" src="https://github.com/user-attachments/assets/7d4881cd-9611-414c-9e43-3777747db5b9" />
+<img width="1134" height="374" alt="Screenshot 2025-12-17 204236" src="https://github.com/user-attachments/assets/85e53959-2f7a-4be2-8508-61f812784cb5" />
+
 
 We will use this robot to compete in Line Following Robot competitions.
 ## How it will work
