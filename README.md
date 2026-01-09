@@ -4,18 +4,23 @@
 Line Following Robot with PID project uses IR Sensors, Microcontroller and Motors to follow a line path on the floor. PID is a type of error-reduction algorithm implemented in such robots to reduce their errors and improve accuracy and precision.
 ## Project Details
 This project is built under Hack Club's Blueprint Program. Custom shape PCB will be used as chassis for the car. PCB will also have all components routing alongwith components mounting and soldering. This will reduce the wires and improve the project's appearance. Moreover, it would reduce the weight due to the chassis.
-We will use N20 Gear Motors with encoders and DRV8833 Motor Driver alongwith QTR 8 Channel IR Sensor Array and ESP32 Devkit M1. Several capacitors will be used to improve the current flow. A Lithium Battery will be used as power source and will be linked with BMS for proper charging. ESP32 will be powered by 5V which will be regulated via a Buck Convertor. Motors will be powered by 6V and this too would be regulated through a 6V 5A Buck Converter.
-The shape of the PCB will resemble a car:
-<img width="678" height="744" alt="Screenshot 2025-12-05 210106" src="https://github.com/user-attachments/assets/12c3bd4b-d899-4db9-aeb2-7ef746a03e05" />
+We will use N20 Gear Motors with encoders and DRV8833 Motor Driver alongwith QTR 8 Channel IR Sensor Array and ESP32 S3 Devkit. Several capacitors will be used to improve the current flow. A Lithium Battery will be used as power source. ESP32 will be powered by 5V which will be regulated via a Buck Convertor. Motors will be powered by 6V and this too would be regulated through a 6V 5A Buck Converter.
+
+PCB:
+
+<img width="910" height="728" alt="PCB" src="https://github.com/user-attachments/assets/f200744a-5dd5-4145-8488-7e9e539f4181" />
 
 Schematic Diagram:
-<img width="1271" height="812" alt="Screenshot 2025-12-15 194827" src="https://github.com/user-attachments/assets/e2ab9e7d-48ed-48bc-bd8f-26806b103728" />
+
+<img width="1202" height="813" alt="Schematic Diagram" src="https://github.com/user-attachments/assets/29a61a45-afca-4921-bf6c-146332d10e96" />
 
 3D Model Images:
 
-<img width="713" height="631" alt="Screenshot 2025-12-17 204329" src="https://github.com/user-attachments/assets/223c6be8-cdf4-41bc-acad-7987d5a13727" />
-<img width="1109" height="560" alt="Screenshot 2025-12-17 204302" src="https://github.com/user-attachments/assets/7d4881cd-9611-414c-9e43-3777747db5b9" />
-<img width="1134" height="374" alt="Screenshot 2025-12-17 204236" src="https://github.com/user-attachments/assets/85e53959-2f7a-4be2-8508-61f812784cb5" />
+<img width="513" height="456" alt="3D" src="https://github.com/user-attachments/assets/8aa8c61e-b190-4527-969d-485079c6ecc4" />
+<img width="590" height="402" alt="3D Model" src="https://github.com/user-attachments/assets/fbc57b87-fc8e-4ae1-9ace-a69865624479" />
+<img width="560" height="442" alt="3D Design" src="https://github.com/user-attachments/assets/ea2dd616-0ad1-4064-a281-0fc197c7fcfc" />
+
+
 
 
 We will use this robot to compete in Line Following Robot competitions.
