@@ -3,8 +3,8 @@
 
 Line Following Robot with PID project uses IR Sensors, Microcontroller and Motors to follow a line path on the floor. PID is a type of error-reduction algorithm implemented in such robots to reduce their errors and improve accuracy and precision.
 ## Project Details
-This project is built under Hack Club's Blueprint Program. Custom shape PCB will be used as chassis for the car. PCB will also have all components routing alongwith components mounting and soldering. This will reduce the wires and improve the project's appearance. Moreover, it would reduce the weight due to the chassis.
-We will use N20 Gear Motors with encoders and DRV8833 Motor Driver alongwith QTR 8 Channel IR Sensor Array and ESP32 S3 Devkit. Several capacitors will be used to improve the current flow. A Lithium Battery will be used as power source. ESP32 will be powered by 5V which will be regulated via a Buck Convertor. Motors will be powered by 6V and this too would be regulated through a 6V 5A Buck Converter.
+This project is built under Hack Club's Blueprint Program. Custom shape PCB is be used as chassis for the car. PCB covers all components routing alongwith components mounting and soldering. This reduces the wires and improve the project's appearance. Moreover, it reduces the weight due to separate chassis making it more efficient.
+N20 Gear Motors with encoders and DRV8833 Motor Driver alongwith QTR 8 Channel IR Sensor Array and ESP32 S3 Devkit are being used. Several capacitors are added to improve the current flow. A Lithium Battery powers this whole project. ESP32 is powered by 5V which is regulated via a Buck Convertor. Motors are powered by 6V and this too is regulated through a 6V 5A Buck Converter.
 
 PCB:
 
@@ -23,7 +23,6 @@ Schematic Diagram:
 
 
 
-We will use this robot to compete in Line Following Robot competitions.
+This robot will be used to compete in Line Following Robot competitions like: 
 ## How it will work
-Firstly, everything will be supplied power by battery and voltage will regulated via Buck Convertors. Then the IR Sensor Array will give readings to the ESP32 and based on that, ESP32 will alter the speed of motors via Motor Driver. This would allow Robot to stay on line. When PID will be implemented, after this step the ESP32 will count error Value and based on that we'll adjust the some variable that will result in increased accuracy and precision. This loop will continue until the robot reaches end of line and then it will stop.
-We will try to make a web application where the variables of the PID Algorithm could be altered for better results.
+Firstly, battery powers everything and voltage is regulated via Buck Convertors. Then the IR Sensor Array gives readings to the ESP32 and based on that, ESP32 alters the speed of motors via Motor Driver. This allows Robot to stay on line. When PID is implemented, after this step the ESP32 counts error Value and based on that some manual variables are adjusted that results in increased accuracy and precision. This loop continues until the robot reaches end of line and then it will stop.
