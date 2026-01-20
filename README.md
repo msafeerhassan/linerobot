@@ -23,6 +23,6 @@ Schematic Diagram:
 
 
 
-This robot will be used to compete in Line Following Robot competitions like: 
+This robot will be used to compete in Line Following Robot competitions like: https://www.dmtsnust.com/nerc/
 ## How it will work
 Firstly, battery powers everything and voltage is regulated via Buck Convertors. Then the IR Sensor Array gives readings to the ESP32 and based on that, ESP32 alters the speed of motors via Motor Driver. This allows Robot to stay on line. When PID is implemented, after this step the ESP32 counts error Value and based on that some manual variables are adjusted that results in increased accuracy and precision. This loop continues until the robot reaches end of line and then it will stop.
