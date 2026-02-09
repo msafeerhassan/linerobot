@@ -8,17 +8,21 @@ N20 Gear Motors with encoders and DRV8833 Motor Driver alongwith QTR 8 Channel I
 
 PCB:
 
-<img width="910" height="728" alt="PCB" src="https://github.com/user-attachments/assets/f200744a-5dd5-4145-8488-7e9e539f4181" />
+<img width="576" height="654" alt="PCB" src="https://github.com/user-attachments/assets/69708714-528b-48c2-81e9-62f571bdb7c5" />
+
+<img width="914" height="721" alt="PCB 2" src="https://github.com/user-attachments/assets/4e699a70-cb92-492e-9b81-c85a80ed5858" />
+
 
 Schematic Diagram:
 
-<img width="1202" height="813" alt="Schematic Diagram" src="https://github.com/user-attachments/assets/29a61a45-afca-4921-bf6c-146332d10e96" />
+<img width="1198" height="826" alt="Schematic Diagram" src="https://github.com/user-attachments/assets/59c54ac2-6079-4c39-9843-b9b3d057332b" />
 
 3D Model Images:
 
-<img width="513" height="456" alt="3D" src="https://github.com/user-attachments/assets/8aa8c61e-b190-4527-969d-485079c6ecc4" />
-<img width="590" height="402" alt="3D Model" src="https://github.com/user-attachments/assets/fbc57b87-fc8e-4ae1-9ace-a69865624479" />
-<img width="560" height="442" alt="3D Design" src="https://github.com/user-attachments/assets/ea2dd616-0ad1-4064-a281-0fc197c7fcfc" />
+<img width="866" height="319" alt="3D Model 2" src="https://github.com/user-attachments/assets/3a38d178-7f76-4fcc-8cf4-fad614849962" />
+
+<img width="928" height="600" alt="3D Model 1" src="https://github.com/user-attachments/assets/21abb627-720c-4c21-8a34-c89939d447e0" />
+
 
 
 
