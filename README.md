@@ -42,21 +42,22 @@ Solder them all onto the PCB and fully assemble it.
 Flash the firmware inside the ESP32. Make sure to adjust variables for better results.
 BOOM!!! YOU MADE A COOL LINE FOLLOWING ROBOT.
 
-### Bill of Materials:
+## Bill of Materials (BOM)
 
-| Item Name | Quantity | Sourcing Link | Cost |
-| --- | --- | --- | --- |
-| ESP32-DevKit-S3-WROOM1 | 1 | [Link](https://epro.pk/product/pre-soldered-esp32-s3-wroom-1-development-board-2-4g-wifi-bt-module/) | $6.37 |
-| DRV8833 Motor Driver | 1 | [Link](https://epro.pk/product/tb6612-drv8833-dual-motor-driver-module-1a-h-bridge-for-arduino-robotics/) | $1.97 |
-| 6V N20 Gear Motor with encoder, wheel and mounting brackets | 2 | [Link](https://www.aliexpress.com/item/1005004110888400.html) | $17.41 |
-| 5A Buck DC-DC Converter 7.4V to 6V | 1 | [Link](https://www.aliexpress.com/item/4000496873234.html) | $5.41 |
-| 7.4V to 5V 1A DC-DC Fixed Buck Convertor (for ESP32) | 1 | [Link](https://www.google.com/url?sa=E&source=gmail&q=https://www.daraz.pk//products/i409486519-s1960963311.html) | $1.75 |
-| , 16 V aluminium electrolytic capacitor | 2 | [Link](https://epro.pk/product/470uf-16v-aluminum-electrolytic-capacitor/) | $0.11 |
-| , 10 V aluminium electrolytic capacitor | 1 | Self Sourcing | $0.00 |
-| 100 nF Ceramic Capacitor | 2 | [Link](https://epro.pk/product/0-1uf-100nf-100000pf-104-ceramic-capacitor-in-pakistan/) | $0.02 |
-| 8 Channel IR Sensor Array | 1 | [Link](https://epro.pk/product/qtr-8rc-line-following-reflectance-ir-sensor-8-channel-line-following-line-tracking-array-module/) | $2.29 |
-| LiPo Battery 7.4V 1500mAH | 1 | [Link](https://epro.pk/product/zop-power-7-4v-1500mah-li-po-rechargeable-battery-pack/) | $10.00 |
-| PCB | 1 | N/A | $32.59 |
-| Push Switch Button | 1 | Self Sourcing | $0.00 |
-| TAXES | - | N/A | $17.37 |
-| **Total Cost** | - | - | **$95.29** |
+| Item Name | Qty | Sourcing Link | Cost (PKR) | Cost (USD) |
+| :--- | :---: | :--- | :--- | :--- |
+| **ESP32-DevKit-S3-WROOM 1** | 1 | [EPro.pk](https://epro.pk/product/pre-soldered-esp32-s3-wroom-1-development-board-2-4g-wifi-bt-module/) | Rs. 1,780 | $6.41 |
+| **DRV8833 Motor Driver** | 1 | [EPro.pk](https://epro.pk/product/tb6612-drv8833-dual-motor-driver-module-1a-h-bridge-for-arduino-robotics/) | Rs. 550 | $1.98 |
+| **6V N20 Gear Motor (with encoder/wheel)** | 2 | [AliExpress](https://www.aliexpress.com/item/1005004110888400.html) | Rs. 5,076 | $18.27 |
+| **5A Buck DC-DC Converter (7.4V to 6V)** | 1 | [AliExpress](https://www.aliexpress.com/item/4000496873234.html) | Rs. 1,206 | $4.34 |
+| **7.4V to 5V 1A Fixed Buck Converter** | 1 | [Daraz](https://www.daraz.pk//products/i409486519-s1960963311.html) | Rs. 535 | $1.93 |
+| **470 µF, 16V Electrolytic Capacitor** | 2 | [EPro.pk](https://epro.pk/product/470uf-16v-aluminum-electrolytic-capacitor/) | Rs. 30 | $0.11 |
+| **220 µF, 10V Electrolytic Capacitor** | 1 | Local Purchase | Rs. 0 | $0.00 |
+| **100 nF Ceramic Capacitor** | 2 | [EPro.pk](https://epro.pk/product/0-1uf-100nf-100000pf-104-ceramic-capacitor-in-pakistan/) | Rs. 6 | $0.02 |
+| **8 Channel IR Sensor Array** | 1 | [EPro.pk](https://epro.pk/product/qtr-8rc-line-following-reflectance-ir-sensor-8-channel-line-following-line-tracking-array-module/) | Rs. 640 | $2.30 |
+| **LiPo Battery 7.4V 1500mAH** | 1 | [EPro.pk](https://epro.pk/product/zop-power-7-4v-1500mah-li-po-rechargeable-battery-pack/) | Rs. 2,790 | $10.04 |
+| **2S 7.4V Charger (XH-3P)** | 1 | [AliExpress](https://www.aliexpress.com/item/1005008596311734.html) | Rs. 811 | $2.92 |
+| **Custom PCB** | 1 | - | Rs. 10,072 | $36.25 |
+| **Push Switch Button** | 1 | [EPro.pk](https://epro.pk/product/slider-on-off-switch/) | Rs. 15 | $0.05 |
+| **TAXES & Logistics** | - | - | Rs. 4,398 | $15.83 |
+| **Total Cost** | | | **Rs. 27,908** | **$100.45** |
