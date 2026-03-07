@@ -59,5 +59,5 @@ BOOM!!! YOU MADE A COOL LINE FOLLOWING ROBOT.
 | **2S 7.4V Charger (XH-3P)** | 1 | [AliExpress](https://www.aliexpress.com/item/1005008596311734.html) | Rs. 811 | $2.92 |
 | **Custom PCB** | 1 | - | Rs. 10,072 | $36.25 |
 | **Push Switch Button** | 1 | [EPro.pk](https://epro.pk/product/slider-on-off-switch/) | Rs. 15 | $0.05 |
-| **TAXES & Logistics** | - | - | Rs. 4,398 | $15.83 |
+| **TAXES** | - | - | Rs. 4,398 | $15.83 |
 | **Total Cost** | | | **Rs. 27,908** | **$100.45** |
