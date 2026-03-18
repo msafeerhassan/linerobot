@@ -1,16 +1,16 @@
-Item Name,Quantity,Sourcing Link,Cost in PKR,Cost in USD
-ESP32-DevKit-S3-WROOM1,1,https://epro.pk/product/pre-soldered-esp32-s3-wroom-1-development-board-2-4g-wifi-bt-module/,Rs. 1780,$6.41 
-DRV8833 Motor Driver,1,https://epro.pk/product/tb6612-drv8833-dual-motor-driver-module-1a-h-bridge-for-arduino-robotics/,Rs. 550,$1.98 
-"6V N20 Gear Motor with encoder, wheel and mounting brackets",2,https://www.aliexpress.com/item/1005004110888400.html,Rs. 5076,$18.27 
-5A Buck DC-DC Converter 7.4V to 6V,1,https://www.aliexpress.com/item/4000496873234.html,Rs. 1206,$4.34 
-7.4V to 5V 1A DC-DC Fixed Buck Convertor (for ESP32),1,https://www.daraz.pk//products/i409486519-s1960963311.html,Rs. 535,$1.93 
-"470 µF, 16 V aluminium electrolytic capacitor",2,https://epro.pk/product/470uf-16v-aluminum-electrolytic-capacitor/,Rs. 30,$0.11 
-"220 µF, 10 V aluminium electrolytic capacitor",1,We'll buy it ourself,Rs. 0,$0.00 
-100 nF Ceramic Capacitor,2,https://epro.pk/product/0-1uf-100nf-100000pf-104-ceramic-capacitor-in-pakistan/,Rs. 6,$0.02 
-8 Channel IR Sensor Array,1,https://epro.pk/product/qtr-8rc-line-following-reflectance-ir-sensor-8-channel-line-following-line-tracking-array-module/,Rs. 640,$2.30 
-LiPo Battery 7.4V 1500mAH,1,https://epro.pk/product/zop-power-7-4v-1500mah-li-po-rechargeable-battery-pack/,Rs. 2790,$10.04 
-HIHI 2S 7.4V 2-In-1 Charger with XH-3P Connector Plug,1,https://www.aliexpress.com/item/1005008596311734.html,Rs. 811,$2.92 
-PCB,1,No Link:(,Rs. 10072,$36.25 
-Push Switch Button,1,https://epro.pk/product/slider-on-off-switch/,Rs. 15,$0.05 
-TAXES:(,,No Link:(,Rs. 4398,$15.83 
-Total Cost,,,Rs. 27908,$100.45 
+Item Name,Quantity,Sourcing Link,Cost
+ESP32-DevKit-S3-WROOM1,1,https://epro.pk/product/pre-soldered-esp32-s3-wroom-1-development-board-2-4g-wifi-bt-module/,$6.41 
+DRV8833 Motor Driver,1,https://epro.pk/product/tb6612-drv8833-dual-motor-driver-module-1a-h-bridge-for-arduino-robotics/,$1.98 
+"6V N20 Gear Motor with encoder, wheel and mounting brackets",2,https://www.aliexpress.com/item/1005004110888400.html,$16.35 
+5A Buck DC-DC Converter 7.4V to 6V,1,https://www.aliexpress.com/item/4000496873234.html,$4.84 
+7.4V to 5V 1A DC-DC Fixed Buck Convertor (for ESP32),1,https://www.aliexpress.com/item/1005006005553178.html,$1.86 
+"470 µF, 16 V aluminium electrolytic capacitor",2,https://epro.pk/product/470uf-16v-aluminum-electrolytic-capacitor/,$0.11 
+"220 µF, 10 V aluminium electrolytic capacitor",1,We'll buy it ourself,$0.00 
+100 nF Ceramic Capacitor,2,https://epro.pk/product/0-1uf-100nf-100000pf-104-ceramic-capacitor-in-pakistan/,$0.02 
+8 Channel IR Sensor Array,1,https://epro.pk/product/qtr-8rc-line-following-reflectance-ir-sensor-8-channel-line-following-line-tracking-array-module/,$2.30 
+LiPo Battery 7.4V 1500mAH,1,https://epro.pk/product/zop-power-7-4v-1500mah-li-po-rechargeable-battery-pack/,$10.04 
+HIHI 2S 7.4V 2-In-1 Charger with XH-3P Connector Plug,1,https://www.aliexpress.com/item/1005008596311734.html,$2.92 
+PCB,1,No Link:(,$36.25 
+Push Switch Button,1,https://epro.pk/product/slider-on-off-switch/,$0.05 
+TAXES:(,,No Link:(,$16.14 
+Total Cost,,,$100.45 
